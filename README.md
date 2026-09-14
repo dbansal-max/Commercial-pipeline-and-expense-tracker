@@ -1,4 +1,4 @@
-# Finance Management System
+# Commercial pipeline and expense tracker
 
 A comprehensive finance data processing and access control backend built with Node.js, Express, and PostgreSQL.
 
